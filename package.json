@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "## References - https://github.com/marketplace/actions/deploy-to-heroku",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kg0r0/deploy-to-heroku-example.git"
+  },
+  "author": "kg0r0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kg0r0/deploy-to-heroku-example/issues"
+  },
+  "homepage": "https://github.com/kg0r0/deploy-to-heroku-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
